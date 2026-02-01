@@ -8,3 +8,6 @@ body {
 p {
     color: green;
 }
+.contenido {
+    padding: 10px;
+}
