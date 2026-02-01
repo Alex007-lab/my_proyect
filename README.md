@@ -5,3 +5,4 @@ actualizacion: hoy
 este proyecto es para aprender git
 cambio stash
 fin del proyecto
+ya termine los 50 commits
