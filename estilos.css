@@ -11,3 +11,6 @@ p {
 .contenido {
     padding: 10px;
 }
+button {
+    background-color: yellow;
+}
