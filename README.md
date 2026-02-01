@@ -4,3 +4,4 @@ linea temporal
 actualizacion: hoy
 este proyecto es para aprender git
 cambio stash
+fin del proyecto
